@@ -52,7 +52,6 @@
             {
                 nome: 'Líder Logístico',
                 colaboradores: [
-                    'Camila Peixoto da Silva',
                     'Diego Maicon Moreira Fernandes de Araujo',
                     'Douglas Henrique Nunes de Campos'
                 ]
@@ -67,7 +66,6 @@
                     'Mayara Susan Xavier Alves',
                     'Pamella Fernanda dos Santos Resende',
                     'Rikelmy Rodrigues Souza da Cruz',
-                    'Robson Junio de Paula',
                     'Robson de Oliveira Soares',
                     'Vania Maria Adriano'
                 ]
