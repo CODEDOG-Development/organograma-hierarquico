@@ -75,6 +75,7 @@
                 colaboradores: [
                     'Denison Rodrigues Peres',
                     'Josue Xavier Ferreira da Silva',
+                    'Geraldo Oliveira da Silva',
                     'Luiz Henrique de Paiva',
                     'Rian Menezes de Matos',
                     'Roberto Carlos Goncalves Moreira',
@@ -91,7 +92,6 @@
                     'Alexander da Silva Camargos',
                     'Clauber Augusto Soares',
                     'Daniela Vitoria Alves Maria',
-                    'Geraldo Oliveira da Silva',
                     'Giovanne Novais Cardoso',
                     'Guilherme Novais Cardoso',
                     'Helen Kethelyn Gomes da Silva',
