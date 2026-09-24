@@ -90,14 +90,22 @@
                     'Adriano Marques Martins',
                     'Amanda Nicole Gomes de Sa',
                     'Ana Caroline Pereira Freire',
+                    'Alexander da Silva Camargos',
                     'Clauber Augusto Soares',
                     'Daniela Vitoria Alves Maria',
+                    'Geraldo Oliveira da Silva',
+                    'Giovanne Novais Cardoso',
+                    'Guilherme Novais Cardoso',
                     'Helen Kethelyn Gomes da Silva',
+                    'Leo Henrique Mendes',
                     'Larissa Carolina da Silva dos Santos',
+                    'Natalia Graziele Sales das Virgens',
                     'Osvane Junior Costa Goncalves',
                     'Rafael Guimaraes Rocha Braga Pereira',
+                    'Ruan Baista Araujo',
                     'Thays Cristianne da Silva Tavares',
                     'Xaiane Gomes de Araujo'
+                    
                 ]
             },
             { nome: 'Auxiliar de PCE', colaboradores: ['Camila Maria Fonseca', 'Josiely Ferreira da Silva'] },
