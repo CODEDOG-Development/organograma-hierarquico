@@ -61,7 +61,6 @@
         "Mayara Susan Xavier Alves",
         "Pamella Fernanda dos Santos Resende",
         "Rikelmy Rodrigues Souza da Cruz",
-        "Robson Junio de Paula",
         "Robson de Oliveira Soares",
         "Vania Maria Adriano"
       ]
@@ -71,7 +70,6 @@
       "colaboradores": [
         "Denison Rodrigues Peres",
         "Josue Xavier Ferreira da Silva",
-        "Geraldo Oliveira da Silva",
         "Luiz Henrique de Paiva",
         "Rian Menezes de Matos",
         "Roberto Carlos Goncalves Moreira",
@@ -85,20 +83,13 @@
         "Adriano Marques Martins",
         "Amanda Nicole Gomes de Sa",
         "Ana Caroline Pereira Freire",
-        "Alexander da Silva Camargos",
         "Clauber Augusto Soares",
-        "Daniela Vitoria Alves Maria",
-        "Giovanne Novais Cardoso",
-        "Guilherme Novais Cardoso",
-        "Helen Kethelyn Gomes da Silva",
-        "Leo Henrique Mendes",
         "Larissa Carolina da Silva dos Santos",
-        "Natalia Graziele Sales das Virgens",
         "Osvane Junior Costa Goncalves",
         "Rafael Guimaraes Rocha Braga Pereira",
-        "Ruan Baista Araujo",
         "Thays Cristianne da Silva Tavares",
         "Xaiane Gomes de Araujo"
+      ]
     },
     {
       "nome": "Auxiliar de PCE",
@@ -123,7 +114,6 @@
     {
       "nome": "Auxiliar de Limpeza",
       "colaboradores": [
-        "Jenifer de Almeida Carvalho",
         "Soraia de Mello"
       ]
     }
@@ -131,16 +121,7 @@
   "n6": [
     {
       "nome": "RTA",
-      "colaboradores": [
-        "Regis Pacheco",
-        "Guilherme Crespo",
-        "Arthur Alves Moreira",
-        "Luiz Carlos",
-        "Diego Henrique da Silva",
-        "Leomar Marlon",
-        "Luiz Philippe Conforte",
-        "Danilo Daniel Souza"
-      ]
+      "colaboradores": []
     }
   ]
 }
