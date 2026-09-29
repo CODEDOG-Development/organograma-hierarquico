@@ -3,7 +3,10 @@
     {
       "nome": "Gestor",
       "colaboradores": [
-        "Francisco Claudiomar da Silva"
+        {
+          "nome": "Francisco Claudiomar da Silva",
+          "turno": 0
+        }
       ]
     }
   ],
@@ -11,19 +14,28 @@
     {
       "nome": "Técnico de Segurança do Trabalho",
       "colaboradores": [
-        "Ivan Luiz Calado Moura"
+        {
+          "nome": "Ivan Luiz Calado Moura",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Analista de RH",
       "colaboradores": [
-        "Simone Rodrigues da Silva"
+        {
+          "nome": "Simone Rodrigues da Silva",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Analista de Qualidade",
       "colaboradores": [
-        "Ilton Coelho"
+        {
+          "nome": "Ilton Coelho",
+          "turno": 0
+        }
       ]
     }
   ],
@@ -31,7 +43,10 @@
     {
       "nome": "Supervisor de Logística",
       "colaboradores": [
-        "Mateus Felipe Conceicao Dias"
+        {
+          "nome": "Mateus Felipe Conceicao Dias",
+          "turno": 0
+        }
       ]
     }
   ],
@@ -39,7 +54,10 @@
     {
       "nome": "Encarregado de Armazém",
       "colaboradores": [
-        "Higor Henrique Faria Salles"
+        {
+          "nome": "Higor Henrique Faria Salles",
+          "turno": 0
+        }
       ]
     }
   ],
@@ -47,73 +65,187 @@
     {
       "nome": "Líder Logístico",
       "colaboradores": [
-        "Diego Maicon Moreira Fernandes de Araujo",
-        "Douglas Henrique Nunes de Campos"
+        {
+          "nome": "Diego Maicon Moreira Fernandes de Araujo",
+          "turno": 0
+        },
+        {
+          "nome": "Douglas Henrique Nunes de Campos",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Conferente",
       "colaboradores": [
-        "Emanuelly Sander de Oliveira Soares",
-        "Ingrid Marcelly Andrade de Jesus",
-        "Kelly Pires Gomes Rodrigues",
-        "Marcelo Correa de Almeida Ribeiro",
-        "Mayara Susan Xavier Alves",
-        "Pamella Fernanda dos Santos Resende",
-        "Rikelmy Rodrigues Souza da Cruz",
-        "Robson de Oliveira Soares",
-        "Vania Maria Adriano",
-        "Robson Junio de Paula"
+        {
+          "nome": "Emanuelly Sander de Oliveira Soares",
+          "turno": 0
+        },
+        {
+          "nome": "Ingrid Marcelly Andrade de Jesus",
+          "turno": 0
+        },
+        {
+          "nome": "Kelly Pires Gomes Rodrigues",
+          "turno": 0
+        },
+        {
+          "nome": "Marcelo Correa de Almeida Ribeiro",
+          "turno": 0
+        },
+        {
+          "nome": "Mayara Susan Xavier Alves",
+          "turno": 0
+        },
+        {
+          "nome": "Pamella Fernanda dos Santos Resende",
+          "turno": 0
+        },
+        {
+          "nome": "Rikelmy Rodrigues Souza da Cruz",
+          "turno": 0
+        },
+        {
+          "nome": "Robson de Oliveira Soares",
+          "turno": 0
+        },
+        {
+          "nome": "Vania Maria Adriano",
+          "turno": 0
+        },
+        {
+          "nome": "Robson Junio de Paula",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Operador de Empilhadeira",
       "colaboradores": [
-        "Denison Rodrigues Peres",
-        "Josue Xavier Ferreira da Silva",
-        "Luiz Henrique de Paiva",
-        "Rian Menezes de Matos",
-        "Roberto Carlos Goncalves Moreira",
-        "Vanderlucio Alves da Silva",
-        "Geraldo Oliveira da Silva",
-        "Joselino"
+        {
+          "nome": "Denison Rodrigues Peres",
+          "turno": 0
+        },
+        {
+          "nome": "Josue Xavier Ferreira da Silva",
+          "turno": 0
+        },
+        {
+          "nome": "Luiz Henrique de Paiva",
+          "turno": 0
+        },
+        {
+          "nome": "Rian Menezes de Matos",
+          "turno": 0
+        },
+        {
+          "nome": "Roberto Carlos Goncalves Moreira",
+          "turno": 0
+        },
+        {
+          "nome": "Vanderlucio Alves da Silva",
+          "turno": 0
+        },
+        {
+          "nome": "Joselino",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Ajudante de Logística",
       "colaboradores": [
-        "Adalberto de Almeida Macedo",
-        "Adriano Marques Martins",
-        "Amanda Nicole Gomes de Sa",
-        "Ana Caroline Pereira Freire",
-        "Clauber Augusto Soares",
-        "Larissa Carolina da Silva dos Santos",
-        "Osvane Junior Costa Goncalves",
-        "Rafael Guimaraes Rocha Braga Pereira",
-        "Thays Cristianne da Silva Tavares",
-        "Xaiane Gomes de Araujo",
-        "Alexander da Silva Camargos",
-        "Guilherme Henrique G. Mendes",
-        "Giovanne Novais Cardoso",
-        "Ruan Batista Araujo",
-        "Davi Lima Fernandes",
-        "Escarlet Souza Salome",
-        "Fernanda da Silva Martins",
-        "Leo Henrique Mendes"
+        {
+          "nome": "Adalberto de Almeida Macedo",
+          "turno": 0
+        },
+        {
+          "nome": "Adriano Marques Martins",
+          "turno": 0
+        },
+        {
+          "nome": "Amanda Nicole Gomes de Sa",
+          "turno": 0
+        },
+        {
+          "nome": "Ana Caroline Pereira Freire",
+          "turno": 0
+        },
+        {
+          "nome": "Clauber Augusto Soares",
+          "turno": 0
+        },
+        {
+          "nome": "Larissa Carolina da Silva dos Santos",
+          "turno": 0
+        },
+        {
+          "nome": "Osvane Junior Costa Goncalves",
+          "turno": 0
+        },
+        {
+          "nome": "Rafael Guimaraes Rocha Braga Pereira",
+          "turno": 0
+        },
+        {
+          "nome": "Thays Cristianne da Silva Tavares",
+          "turno": 0
+        },
+        {
+          "nome": "Xaiane Gomes de Araujo",
+          "turno": 0
+        },
+        {
+          "nome": "Alexander da Silva Camargos",
+          "turno": 0
+        },
+        {
+          "nome": "Guilherme Henrique G. Mendes",
+          "turno": 0
+        },
+        {
+          "nome": "Giovanne Novais Cardoso",
+          "turno": 0
+        },
+        {
+          "nome": "Ruan Batista Araujo",
+          "turno": 0
+        },
+        {
+          "nome": "Fernanda da Silva Martins",
+          "turno": 0
+        },
+        {
+          "nome": "Leo Henrique Mendes",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Auxiliar de PCE",
       "colaboradores": [
-        "Camila Maria Fonseca",
-        "Josiely Ferreira da Silva"
+        {
+          "nome": "Camila Maria Fonseca",
+          "turno": 0
+        },
+        {
+          "nome": "Josiely Ferreira da Silva",
+          "turno": 0
+        }
       ]
     },
     {
       "nome": "Auxiliar Administrativo",
       "colaboradores": [
-        "Camila Lopes do Nascimento",
-        "Thiago Domingos da Silva"
+        {
+          "nome": "Camila Lopes do Nascimento",
+          "turno": 0
+        },
+        {
+          "nome": "Thiago Domingos da Silva",
+          "turno": 0
+        }
       ]
     },
     {
@@ -123,7 +255,10 @@
     {
       "nome": "Auxiliar de Limpeza",
       "colaboradores": [
-        "Soraia de Mello"
+        {
+          "nome": "Soraia de Mello",
+          "turno": 0
+        }
       ]
     }
   ],
