@@ -44,6 +44,30 @@ body {
   background:repeating-linear-gradient(135deg,var(--hiviz) 0 14px,var(--ink) 14px 28px);
 }
 
+/* ---------- filtro de turno e efetivo (real x contratual) ---------- */
+.painel {
+  display:flex; flex-wrap:wrap; align-items:flex-end; justify-content:space-between;
+  gap:16px 32px; margin:16px 0 18px;
+}
+.filtro-turno { display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+.filtro-turno__rotulo {
+  font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em;
+  font-size:12px; color:var(--steel); margin-right:4px;
+}
+.filtro-turno .botao.ativo { background:var(--ink); color:var(--white); border-color:var(--ink); }
+
+.contrato { display:flex; flex-wrap:wrap; gap:10px 28px; }
+.contrato__item {
+  font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em;
+  font-size:12px; color:var(--steel); line-height:1.4;
+}
+.contrato__item b {
+  display:block; font-size:26px; color:var(--ink); letter-spacing:0; line-height:1.1;
+}
+.contrato__dif { border-left:3px solid var(--hiviz); padding-left:10px; }
+.contrato__dif--acima { border-left-color:var(--terceiro); }
+.contrato__dif--acima b { color:var(--terceiro-deep); }
+
 /* ---------- botões do topo ---------- */
 .botao {
   font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em; font-size:12px;
@@ -141,6 +165,23 @@ body {
   font-size:11.5px; color:var(--mist);
 }
 
+/* ---------- etiqueta de turno ---------- */
+/* Escala de cor: 1º claro, 2º médio, 3º escuro. Amarelo e vermelho ficam
+   reservados para a assessoria (N2) e os terceirizados (N6). */
+.nomes li { display:flex; align-items:center; gap:8px; }
+.etiqueta-turno {
+  margin-left:auto; flex:none; min-width:28px; padding:3px 6px; text-align:center;
+  font-family:var(--cond); font-size:11px; font-weight:600; letter-spacing:.08em; line-height:1;
+  border:1px solid var(--line); background:var(--white); color:var(--steel);
+  cursor:default; -webkit-print-color-adjust:exact; print-color-adjust:exact;
+}
+.etiqueta-turno.turno-0 { border-style:dashed; color:var(--mist); }
+.etiqueta-turno.turno-1 { background:var(--paper); border-color:var(--steel); color:var(--steel); }
+.etiqueta-turno.turno-2 { background:var(--steel); border-color:var(--steel); color:var(--white); }
+.etiqueta-turno.turno-3 { background:var(--ink); border-color:var(--ink); color:var(--white); }
+body.modo-edicao .etiqueta-turno { cursor:pointer; }
+body.modo-edicao .etiqueta-turno:hover { outline:2px solid var(--hiviz); outline-offset:1px; }
+
 /* ---------- controles de edição ---------- */
 .so-edicao { display:none; }
 body.modo-edicao .add-colaborador { display:inline-flex; }
@@ -156,7 +197,6 @@ body.modo-edicao .add-cargo { display:block; }
 .add-colaborador:hover { background:var(--hiviz); border-color:var(--hiviz-deep); color:var(--ink); }
 .card--terceiro .add-colaborador:hover { background:var(--terceiro); border-color:var(--terceiro-deep); color:var(--white); }
 
-body.modo-edicao .nomes li { display:flex; align-items:center; justify-content:space-between; gap:8px; }
 .del-colaborador {
   border:none; background:none; color:var(--mist); cursor:pointer; font-size:14px;
   line-height:1; padding:0 2px;
